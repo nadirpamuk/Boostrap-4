@@ -120,7 +120,7 @@
 }
 
 .fas:hover {
-    color: #cd1414;
+    color: #000;
 }
 
 .carousel-indicators li {
@@ -129,7 +129,7 @@
 }
 
 .carousel-indicators li:hover {
-    background-color: #cd1414;
+    background-color: #000;
     transition: 0.5s ease;
 }
 
